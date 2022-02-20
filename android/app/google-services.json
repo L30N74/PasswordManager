@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451238285127",
+    "project_id": "password-manager-d2196",
+    "storage_bucket": "password-manager-d2196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451238285127:android:8b8ab4817f6f47f81b8662",
+        "android_client_info": {
+          "package_name": "com.leOff.password_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451238285127-2mq46jf4h1h8hmaarqfroa5v1q2f82d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUP0m1SLP3pzrv_5SgglGggjTinxDhids"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451238285127-2mq46jf4h1h8hmaarqfroa5v1q2f82d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
